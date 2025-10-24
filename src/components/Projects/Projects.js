@@ -6,7 +6,7 @@ import Particle from "../Particle";
 
 import smartrest from "../../Assets/Projects/smartrest.png";
 import Shopsphere from "../../Assets/Projects/Shosphere.png";
-
+import book from  "../../Assets/Projects/book.png"
 import carboniq from "../../Assets/Projects/Carboniq.png";
 
 function Projects() {
@@ -54,7 +54,16 @@ function Projects() {
             />
           </Col>
 
-          
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={book}
+              isBlog={false}
+              title="Telephone-Book"
+              description="Built Command line Interface(CLI) application in C++. User can Create Contact after signup and login only, Display Contact ,Update Contact ,Delete Contact, and Search Contact !"
+              ghLink="https://github.com/Pradumanrawat/Telephone-Book"
+                            
+            />
+          </Col>
           
         </Row>
       </Container>
