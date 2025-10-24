@@ -2,21 +2,12 @@
   Portfolio Website - v2.0<br/>
   <a href="" target="_blank">praduman.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="" />
-</div>
+
 
 <br/>
 
 
-<h3 align="center">
-    🔹
-    <a href="">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="">Request Feature</a>
-</h3>
 
-## TL;DR
 
 
 
